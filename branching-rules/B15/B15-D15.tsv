@@ -1,0 +1,4 @@
+irr-B15-1	1 x (irr-D15-1)
+irr-B15-31	1 x (irr-D15-1) + 1 x (irr-D15-30)
+irr-B15-465	1 x (irr-D15-30) + 1 x (irr-D15-435)
+irr-B15-495	1 x (irr-D15-1) + 1 x (irr-D15-30) + 1 x (irr-D15-464)

@@ -1,0 +1,4 @@
+irr-B12-1	1 x (irr-B4-1,irr-D8-1)
+irr-B12-25	1 x (irr-B4-9,irr-D8-1) + 1 x (irr-B4-1,irr-D8-16)
+irr-B12-300	1 x (irr-B4-36,irr-D8-1) + 1 x (irr-B4-9,irr-D8-16) + 1 x (irr-B4-1,irr-D8-120)
+irr-B12-324	1 x (irr-B4-1,irr-D8-1) + 1 x (irr-B4-9,irr-D8-16) + 1 x (irr-B4-44,irr-D8-1) + 1 x (irr-B4-1,irr-D8-135)

@@ -1,0 +1,4 @@
+irr-B11-1	1 x (irr-B10-1)
+irr-B11-23	2 x (irr-B10-1) + 1 x (irr-B10-21)
+irr-B11-253	1 x (irr-B10-1) + 2 x (irr-B10-21) + 1 x (irr-B10-210)
+irr-B11-275	3 x (irr-B10-1) + 2 x (irr-B10-21) + 1 x (irr-B10-230)

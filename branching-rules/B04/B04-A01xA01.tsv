@@ -1,0 +1,8 @@
+irr-B4-1	1 x (irr-A1-1,irr-A1-1)
+irr-B4-9	1 x (irr-A1-3,irr-A1-3)
+irr-B4-16	1 x (irr-A1-2-q,irr-A1-4-q) + 1 x (irr-A1-4-q,irr-A1-2-q)
+irr-B4-36	1 x (irr-A1-3,irr-A1-1) + 1 x (irr-A1-1,irr-A1-3) + 1 x (irr-A1-5,irr-A1-3) + 1 x (irr-A1-3,irr-A1-5)
+irr-B4-44	1 x (irr-A1-3,irr-A1-3) + 1 x (irr-A1-5,irr-A1-1) + 1 x (irr-A1-1,irr-A1-5) + 1 x (irr-A1-5,irr-A1-5)
+irr-B4-84	1 x (irr-A1-3,irr-A1-1) + 1 x (irr-A1-1,irr-A1-3) + 1 x (irr-A1-3,irr-A1-3) + 1 x (irr-A1-5,irr-A1-3) + 1 x (irr-A1-3,irr-A1-5) + 1 x (irr-A1-7,irr-A1-1) + 1 x (irr-A1-1,irr-A1-7) + 1 x (irr-A1-5,irr-A1-5)
+irr-B4-126	1 x (irr-A1-1,irr-A1-1) + 2 x (irr-A1-3,irr-A1-3) + 1 x (irr-A1-5,irr-A1-1) + 1 x (irr-A1-1,irr-A1-5) + 1 x (irr-A1-5,irr-A1-3) + 1 x (irr-A1-3,irr-A1-5) + 1 x (irr-A1-5,irr-A1-5) + 1 x (irr-A1-7,irr-A1-3) + 1 x (irr-A1-3,irr-A1-7)
+irr-B4-128	2 x (irr-A1-2-q,irr-A1-2-q) + 1 x (irr-A1-4-q,irr-A1-2-q) + 1 x (irr-A1-2-q,irr-A1-4-q) + 2 x (irr-A1-4-q,irr-A1-4-q) + 1 x (irr-A1-6-q,irr-A1-2-q) + 1 x (irr-A1-2-q,irr-A1-6-q) + 1 x (irr-A1-6-q,irr-A1-4-q) + 1 x (irr-A1-4-q,irr-A1-6-q)

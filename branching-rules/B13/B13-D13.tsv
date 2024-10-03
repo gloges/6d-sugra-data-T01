@@ -1,0 +1,4 @@
+irr-B13-1	1 x (irr-D13-1)
+irr-B13-27	1 x (irr-D13-1) + 1 x (irr-D13-26)
+irr-B13-351	1 x (irr-D13-26) + 1 x (irr-D13-325)
+irr-B13-377	1 x (irr-D13-1) + 1 x (irr-D13-26) + 1 x (irr-D13-350)

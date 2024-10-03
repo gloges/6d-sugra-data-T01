@@ -1,0 +1,8 @@
+irr-B4-1	1 x (irr-B3-1)
+irr-B4-9	2 x (irr-B3-1) + 1 x (irr-B3-7)
+irr-B4-16	2 x (irr-B3-8)
+irr-B4-36	1 x (irr-B3-1) + 2 x (irr-B3-7) + 1 x (irr-B3-21)
+irr-B4-44	3 x (irr-B3-1) + 2 x (irr-B3-7) + 1 x (irr-B3-27)
+irr-B4-84	1 x (irr-B3-7) + 2 x (irr-B3-21) + 1 x (irr-B3-35)
+irr-B4-126	1 x (irr-B3-21) + 3 x (irr-B3-35)
+irr-B4-128	4 x (irr-B3-8) + 2 x (irr-B3-48)
