@@ -1,0 +1,4 @@
+irr-D16-1	1 x (irr-A1-1,irr-B14-1)
+irr-D16-32	1 x (irr-A1-3,irr-B14-1) + 1 x (irr-A1-1,irr-B14-29)
+irr-D16-496	1 x (irr-A1-3,irr-B14-1) + 1 x (irr-A1-3,irr-B14-29) + 1 x (irr-A1-1,irr-B14-406)
+irr-D16-527	1 x (irr-A1-1,irr-B14-1) + 1 x (irr-A1-5,irr-B14-1) + 1 x (irr-A1-3,irr-B14-29) + 1 x (irr-A1-1,irr-B14-434)

@@ -1,0 +1,4 @@
+irr-D12-1	1 x (irr-D11-1)
+irr-D12-24	2 x (irr-D11-1) + 1 x (irr-D11-22)
+irr-D12-276	1 x (irr-D11-1) + 2 x (irr-D11-22) + 1 x (irr-D11-231)
+irr-D12-299	3 x (irr-D11-1) + 2 x (irr-D11-22) + 1 x (irr-D11-252)

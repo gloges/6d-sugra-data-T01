@@ -1,0 +1,4 @@
+irr-D10-1	1 x (irr-D5-1,irr-D5-1)
+irr-D10-20	1 x (irr-D5-10,irr-D5-1) + 1 x (irr-D5-1,irr-D5-10)
+irr-D10-190	1 x (irr-D5-10,irr-D5-10) + 1 x (irr-D5-45,irr-D5-1) + 1 x (irr-D5-1,irr-D5-45)
+irr-D10-209	1 x (irr-D5-1,irr-D5-1) + 1 x (irr-D5-10,irr-D5-10) + 1 x (irr-D5-54,irr-D5-1) + 1 x (irr-D5-1,irr-D5-54)

@@ -1,0 +1,4 @@
+irr-D11-1	1 x (irr-B3-1,irr-B7-1)
+irr-D11-22	1 x (irr-B3-7,irr-B7-1) + 1 x (irr-B3-1,irr-B7-15)
+irr-D11-231	1 x (irr-B3-7,irr-B7-15) + 1 x (irr-B3-21,irr-B7-1) + 1 x (irr-B3-1,irr-B7-105)
+irr-D11-252	1 x (irr-B3-1,irr-B7-1) + 1 x (irr-B3-7,irr-B7-15) + 1 x (irr-B3-27,irr-B7-1) + 1 x (irr-B3-1,irr-B7-119)

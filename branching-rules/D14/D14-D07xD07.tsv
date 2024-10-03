@@ -1,0 +1,4 @@
+irr-D14-1	1 x (irr-D7-1,irr-D7-1)
+irr-D14-28	1 x (irr-D7-14,irr-D7-1) + 1 x (irr-D7-1,irr-D7-14)
+irr-D14-378	1 x (irr-D7-14,irr-D7-14) + 1 x (irr-D7-91,irr-D7-1) + 1 x (irr-D7-1,irr-D7-91)
+irr-D14-405	1 x (irr-D7-1,irr-D7-1) + 1 x (irr-D7-14,irr-D7-14) + 1 x (irr-D7-104,irr-D7-1) + 1 x (irr-D7-1,irr-D7-104)

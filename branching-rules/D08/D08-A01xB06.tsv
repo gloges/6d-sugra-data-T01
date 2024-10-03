@@ -1,0 +1,5 @@
+irr-D8-1	1 x (irr-A1-1,irr-B6-1)
+irr-D8-16	1 x (irr-A1-3,irr-B6-1) + 1 x (irr-A1-1,irr-B6-13)
+irr-D8-120	1 x (irr-A1-3,irr-B6-1) + 1 x (irr-A1-3,irr-B6-13) + 1 x (irr-A1-1,irr-B6-78)
+irr-D8-128	1 x (irr-A1-2-q,irr-B6-64-q)
+irr-D8-135	1 x (irr-A1-1,irr-B6-1) + 1 x (irr-A1-5,irr-B6-1) + 1 x (irr-A1-3,irr-B6-13) + 1 x (irr-A1-1,irr-B6-90)

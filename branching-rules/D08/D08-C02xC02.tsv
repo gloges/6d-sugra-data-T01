@@ -1,0 +1,5 @@
+irr-D8-1	1 x (irr-C2-1,irr-C2-1)
+irr-D8-16	1 x (irr-C2-4-q,irr-C2-4-q)
+irr-D8-120	1 x (irr-C2-10,irr-C2-1) + 1 x (irr-C2-1,irr-C2-10) + 1 x (irr-C2-10,irr-C2-5) + 1 x (irr-C2-5,irr-C2-10)
+irr-D8-128	1 x (irr-C2-10,irr-C2-5) + 1 x (irr-C2-5,irr-C2-10) + 1 x (irr-C2-14,irr-C2-1) + 1 x (irr-C2-1,irr-C2-14)
+irr-D8-135	1 x (irr-C2-5,irr-C2-1) + 1 x (irr-C2-1,irr-C2-5) + 1 x (irr-C2-5,irr-C2-5) + 1 x (irr-C2-10,irr-C2-10)
