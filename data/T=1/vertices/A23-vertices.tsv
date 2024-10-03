@@ -1,0 +1,5 @@
+vtx-A23-109-n1-n1	Δ = 109	bi.bi = -1	b0.bi = -1	hypers = 16 x (irr-A23-24) + 1 x (irr-A23-300)
+vtx-A23-469-n1-1	Δ = 469	bi.bi = -1	b0.bi = 1	hypers = 32 x (irr-A23-24) + 1 x (irr-A23-276)
+vtx-A23-577-n2-0	Δ = 577	bi.bi = -2	b0.bi = 0	hypers = 48 x (irr-A23-24)
+vtx-A23-361-0-2	Δ = 361	bi.bi = 0	b0.bi = 2	hypers = 16 x (irr-A23-24) + 2 x (irr-A23-276)
+vtx-A23-253-1-3	Δ = 253	bi.bi = 1	b0.bi = 3	hypers = 3 x (irr-A23-276)

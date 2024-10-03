@@ -1,0 +1,7 @@
+vtx-A12-n12-n1-n1	Δ = -12	bi.bi = -1	b0.bi = -1	hypers = 5 x (irr-A12-13) + 1 x (irr-A12-91)
+vtx-A12-170-n2-0	Δ = 170	bi.bi = -2	b0.bi = 0	hypers = 26 x (irr-A12-13)
+vtx-A12-183-n1-1	Δ = 183	bi.bi = -1	b0.bi = 1	hypers = 21 x (irr-A12-13) + 1 x (irr-A12-78)
+vtx-A12-196-0-2	Δ = 196	bi.bi = 0	b0.bi = 2	hypers = 16 x (irr-A12-13) + 2 x (irr-A12-78)
+vtx-A12-209-1-3	Δ = 209	bi.bi = 1	b0.bi = 3	hypers = 11 x (irr-A12-13) + 3 x (irr-A12-78)
+vtx-A12-222-2-4	Δ = 222	bi.bi = 2	b0.bi = 4	hypers = 6 x (irr-A12-13) + 4 x (irr-A12-78)
+vtx-A12-235-3-5	Δ = 235	bi.bi = 3	b0.bi = 5	hypers = 1 x (irr-A12-13) + 5 x (irr-A12-78)

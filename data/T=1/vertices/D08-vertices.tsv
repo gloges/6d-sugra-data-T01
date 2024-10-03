@@ -1,0 +1,6 @@
+vtx-D08-8-n4-n2	Δ = 8	bi.bi = -4	b0.bi = -2	hypers = 8 x (irr-D8-16)
+vtx-D08-248-12-10	Δ = 248	bi.bi = 12	b0.bi = 10	hypers = 2 x (irr-D8-120) + 1 x (irr-D8-128)
+vtx-D08-256-8-8	Δ = 256	bi.bi = 8	b0.bi = 8	hypers = 8 x (irr-D8-16) + 1 x (irr-D8-120) + 1 x (irr-D8-128)
+vtx-D08-264-4-6	Δ = 264	bi.bi = 4	b0.bi = 6	hypers = 16 x (irr-D8-16) + 1 x (irr-D8-128)
+vtx-D08-271-16-12	Δ = 271	bi.bi = 16	b0.bi = 12	hypers = 2 x (irr-D8-128) + 1 x (irr-D8-135)
+vtx-D08-520-12-14	Δ = 520	bi.bi = 12	b0.bi = 14	hypers = 24 x (irr-D8-16) + 2 x (irr-D8-128)

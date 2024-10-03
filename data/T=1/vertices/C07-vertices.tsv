@@ -1,0 +1,5 @@
+vtx-C07-203-n1-1	Δ = 203	bi.bi = -1	b0.bi = 1	hypers = 22 x (irr-C7-14-q)
+vtx-C07-209-0-2	Δ = 209	bi.bi = 0	b0.bi = 2	hypers = 16 x (irr-C7-14-q) + 1 x (irr-C7-90)
+vtx-C07-215-1-3	Δ = 215	bi.bi = 1	b0.bi = 3	hypers = 10 x (irr-C7-14-q) + 2 x (irr-C7-90)
+vtx-C07-221-2-4	Δ = 221	bi.bi = 2	b0.bi = 4	hypers = 4 x (irr-C7-14-q) + 3 x (irr-C7-90)
+vtx-C07-343-4-6	Δ = 343	bi.bi = 4	b0.bi = 6	hypers = 19.5 x (irr-C7-14-q) + 0.5 x (irr-C7-350-q)

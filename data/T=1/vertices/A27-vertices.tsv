@@ -1,0 +1,4 @@
+vtx-A27-183-n1-n1	Δ = 183	bi.bi = -1	b0.bi = -1	hypers = 20 x (irr-A27-28) + 1 x (irr-A27-406)
+vtx-A27-603-n1-1	Δ = 603	bi.bi = -1	b0.bi = 1	hypers = 36 x (irr-A27-28) + 1 x (irr-A27-378)
+vtx-A27-785-n2-0	Δ = 785	bi.bi = -2	b0.bi = 0	hypers = 56 x (irr-A27-28)
+vtx-A27-421-0-2	Δ = 421	bi.bi = 0	b0.bi = 2	hypers = 16 x (irr-A27-28) + 2 x (irr-A27-378)

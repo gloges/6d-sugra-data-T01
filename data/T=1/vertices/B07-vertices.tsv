@@ -1,0 +1,6 @@
+vtx-B07-0-n4-n2	Δ = 0	bi.bi = -4	b0.bi = -2	hypers = 7 x (irr-B7-15)
+vtx-B07-248-4-6	Δ = 248	bi.bi = 4	b0.bi = 6	hypers = 15 x (irr-B7-15) + 1 x (irr-B7-128)
+vtx-B07-248-8-8	Δ = 248	bi.bi = 8	b0.bi = 8	hypers = 8 x (irr-B7-15) + 1 x (irr-B7-105) + 1 x (irr-B7-128)
+vtx-B07-248-12-10	Δ = 248	bi.bi = 12	b0.bi = 10	hypers = 1 x (irr-B7-15) + 2 x (irr-B7-105) + 1 x (irr-B7-128)
+vtx-B07-270-16-12	Δ = 270	bi.bi = 16	b0.bi = 12	hypers = 1 x (irr-B7-119) + 2 x (irr-B7-128)
+vtx-B07-496-12-14	Δ = 496	bi.bi = 12	b0.bi = 14	hypers = 23 x (irr-B7-15) + 2 x (irr-B7-128)

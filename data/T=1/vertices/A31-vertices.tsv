@@ -1,0 +1,4 @@
+vtx-A31-273-n1-n1	Δ = 273	bi.bi = -1	b0.bi = -1	hypers = 24 x (irr-A31-32) + 1 x (irr-A31-528)
+vtx-A31-753-n1-1	Δ = 753	bi.bi = -1	b0.bi = 1	hypers = 40 x (irr-A31-32) + 1 x (irr-A31-496)
+vtx-A31-1025-n2-0	Δ = 1025	bi.bi = -2	b0.bi = 0	hypers = 64 x (irr-A31-32)
+vtx-A31-481-0-2	Δ = 481	bi.bi = 0	b0.bi = 2	hypers = 16 x (irr-A31-32) + 2 x (irr-A31-496)

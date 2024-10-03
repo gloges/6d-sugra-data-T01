@@ -1,0 +1,4 @@
+vtx-A32-298-n1-n1	Δ = 298	bi.bi = -1	b0.bi = -1	hypers = 25 x (irr-A32-33) + 1 x (irr-A32-561)
+vtx-A32-793-n1-1	Δ = 793	bi.bi = -1	b0.bi = 1	hypers = 41 x (irr-A32-33) + 1 x (irr-A32-528)
+vtx-A32-1090-n2-0	Δ = 1090	bi.bi = -2	b0.bi = 0	hypers = 66 x (irr-A32-33)
+vtx-A32-496-0-2	Δ = 496	bi.bi = 0	b0.bi = 2	hypers = 16 x (irr-A32-33) + 2 x (irr-A32-528)

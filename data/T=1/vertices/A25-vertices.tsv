@@ -1,0 +1,4 @@
+vtx-A25-144-n1-n1	Δ = 144	bi.bi = -1	b0.bi = -1	hypers = 18 x (irr-A25-26) + 1 x (irr-A25-351)
+vtx-A25-534-n1-1	Δ = 534	bi.bi = -1	b0.bi = 1	hypers = 34 x (irr-A25-26) + 1 x (irr-A25-325)
+vtx-A25-677-n2-0	Δ = 677	bi.bi = -2	b0.bi = 0	hypers = 52 x (irr-A25-26)
+vtx-A25-391-0-2	Δ = 391	bi.bi = 0	b0.bi = 2	hypers = 16 x (irr-A25-26) + 2 x (irr-A25-325)
