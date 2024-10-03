@@ -1,0 +1,5 @@
+irr-A15-1	1 x (irr-D8-1)
+irr-A15-16	1 x (irr-D8-16)
+irr-A15-120	1 x (irr-D8-120)
+irr-A15-136	1 x (irr-D8-1) + 1 x (irr-D8-135)
+irr-A15-255	1 x (irr-D8-120) + 1 x (irr-D8-135)

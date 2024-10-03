@@ -1,0 +1,5 @@
+irr-A22-1	1 x (irr-A10-1,irr-A11-1)
+irr-A22-23	1 x (irr-A10-11,irr-A11-1) + 1 x (irr-A10-1,irr-A11-12)
+irr-A22-253	1 x (irr-A10-55,irr-A11-1) + 1 x (irr-A10-11,irr-A11-12) + 1 x (irr-A10-1,irr-A11-66)
+irr-A22-276	1 x (irr-A10-66,irr-A11-1) + 1 x (irr-A10-11,irr-A11-12) + 1 x (irr-A10-1,irr-A11-78)
+irr-A22-528	1 x (irr-A10-1,irr-A11-1) + 1 x (irr-A10-120,irr-A11-1) + 2 x (irr-A10-11,irr-A11-12) + 1 x (irr-A10-1,irr-A11-143)

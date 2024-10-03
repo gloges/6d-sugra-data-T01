@@ -1,0 +1,5 @@
+irr-A23-1	1 x (irr-A22-1)
+irr-A23-24	1 x (irr-A22-1) + 1 x (irr-A22-23)
+irr-A23-276	1 x (irr-A22-23) + 1 x (irr-A22-253)
+irr-A23-300	1 x (irr-A22-1) + 1 x (irr-A22-23) + 1 x (irr-A22-276)
+irr-A23-575	1 x (irr-A22-1) + 2 x (irr-A22-23) + 1 x (irr-A22-528)

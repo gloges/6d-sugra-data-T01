@@ -1,0 +1,5 @@
+irr-A25-1	1 x (irr-A24-1)
+irr-A25-26	1 x (irr-A24-1) + 1 x (irr-A24-25)
+irr-A25-325	1 x (irr-A24-25) + 1 x (irr-A24-300)
+irr-A25-351	1 x (irr-A24-1) + 1 x (irr-A24-25) + 1 x (irr-A24-325)
+irr-A25-675	1 x (irr-A24-1) + 2 x (irr-A24-25) + 1 x (irr-A24-624)

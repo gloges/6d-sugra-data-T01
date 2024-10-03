@@ -1,0 +1,5 @@
+irr-A31-1	1 x (irr-C16-1)
+irr-A31-32	1 x (irr-C16-32-q)
+irr-A31-496	1 x (irr-C16-1) + 1 x (irr-C16-495)
+irr-A31-528	1 x (irr-C16-528)
+irr-A31-1023	1 x (irr-C16-495) + 1 x (irr-C16-528)

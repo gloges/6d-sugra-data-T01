@@ -1,0 +1,5 @@
+irr-A31-1	1 x (irr-A7-1,irr-A23-1)
+irr-A31-32	1 x (irr-A7-8,irr-A23-1) + 1 x (irr-A7-1,irr-A23-24)
+irr-A31-496	1 x (irr-A7-28,irr-A23-1) + 1 x (irr-A7-8,irr-A23-24) + 1 x (irr-A7-1,irr-A23-276)
+irr-A31-528	1 x (irr-A7-36,irr-A23-1) + 1 x (irr-A7-8,irr-A23-24) + 1 x (irr-A7-1,irr-A23-300)
+irr-A31-1023	1 x (irr-A7-1,irr-A23-1) + 1 x (irr-A7-63,irr-A23-1) + 2 x (irr-A7-8,irr-A23-24) + 1 x (irr-A7-1,irr-A23-575)

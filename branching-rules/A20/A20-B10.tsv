@@ -1,0 +1,5 @@
+irr-A20-1	1 x (irr-B10-1)
+irr-A20-21	1 x (irr-B10-21)
+irr-A20-210	1 x (irr-B10-210)
+irr-A20-231	1 x (irr-B10-1) + 1 x (irr-B10-230)
+irr-A20-440	1 x (irr-B10-210) + 1 x (irr-B10-230)

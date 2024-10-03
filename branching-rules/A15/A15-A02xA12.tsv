@@ -1,0 +1,5 @@
+irr-A15-1	1 x (irr-A2-1,irr-A12-1)
+irr-A15-16	1 x (irr-A2-3,irr-A12-1) + 1 x (irr-A2-1,irr-A12-13)
+irr-A15-120	1 x (irr-A2-3,irr-A12-1) + 1 x (irr-A2-3,irr-A12-13) + 1 x (irr-A2-1,irr-A12-78)
+irr-A15-136	1 x (irr-A2-6,irr-A12-1) + 1 x (irr-A2-3,irr-A12-13) + 1 x (irr-A2-1,irr-A12-91)
+irr-A15-255	1 x (irr-A2-1,irr-A12-1) + 2 x (irr-A2-3,irr-A12-13) + 1 x (irr-A2-8,irr-A12-1) + 1 x (irr-A2-1,irr-A12-168)

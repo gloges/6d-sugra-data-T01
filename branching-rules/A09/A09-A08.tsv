@@ -1,0 +1,7 @@
+irr-A9-1	1 x (irr-A8-1)
+irr-A9-10	1 x (irr-A8-1) + 1 x (irr-A8-9)
+irr-A9-45	1 x (irr-A8-9) + 1 x (irr-A8-36)
+irr-A9-55	1 x (irr-A8-1) + 1 x (irr-A8-9) + 1 x (irr-A8-45)
+irr-A9-99	1 x (irr-A8-1) + 2 x (irr-A8-9) + 1 x (irr-A8-80)
+irr-A9-120	1 x (irr-A8-36) + 1 x (irr-A8-84)
+irr-A9-252-q	2 x (irr-A8-126)

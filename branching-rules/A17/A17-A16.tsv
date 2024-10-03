@@ -1,0 +1,5 @@
+irr-A17-1	1 x (irr-A16-1)
+irr-A17-18	1 x (irr-A16-1) + 1 x (irr-A16-17)
+irr-A17-153	1 x (irr-A16-17) + 1 x (irr-A16-136)
+irr-A17-171	1 x (irr-A16-1) + 1 x (irr-A16-17) + 1 x (irr-A16-153)
+irr-A17-323	1 x (irr-A16-1) + 2 x (irr-A16-17) + 1 x (irr-A16-288)

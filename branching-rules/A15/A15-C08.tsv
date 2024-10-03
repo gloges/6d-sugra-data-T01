@@ -1,0 +1,5 @@
+irr-A15-1	1 x (irr-C8-1)
+irr-A15-16	1 x (irr-C8-16-q)
+irr-A15-120	1 x (irr-C8-1) + 1 x (irr-C8-119)
+irr-A15-136	1 x (irr-C8-136)
+irr-A15-255	1 x (irr-C8-119) + 1 x (irr-C8-136)

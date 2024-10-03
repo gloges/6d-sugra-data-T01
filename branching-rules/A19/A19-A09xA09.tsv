@@ -1,0 +1,5 @@
+irr-A19-1	1 x (irr-A9-1,irr-A9-1)
+irr-A19-20	1 x (irr-A9-10,irr-A9-1) + 1 x (irr-A9-1,irr-A9-10)
+irr-A19-190	1 x (irr-A9-45,irr-A9-1) + 1 x (irr-A9-10,irr-A9-10) + 1 x (irr-A9-1,irr-A9-45)
+irr-A19-210	1 x (irr-A9-55,irr-A9-1) + 1 x (irr-A9-10,irr-A9-10) + 1 x (irr-A9-1,irr-A9-55)
+irr-A19-399	1 x (irr-A9-1,irr-A9-1) + 1 x (irr-A9-99,irr-A9-1) + 2 x (irr-A9-10,irr-A9-10) + 1 x (irr-A9-1,irr-A9-99)
