@@ -1,0 +1,5 @@
+irr-C6-1	1 x (irr-C2-1,irr-C4-1)
+irr-C6-12-q	1 x (irr-C2-4-q,irr-C4-1) + 1 x (irr-C2-1,irr-C4-8-q)
+irr-C6-65	1 x (irr-C2-1,irr-C4-1) + 1 x (irr-C2-5,irr-C4-1) + 1 x (irr-C2-4-q,irr-C4-8-q) + 1 x (irr-C2-1,irr-C4-27)
+irr-C6-78	1 x (irr-C2-10,irr-C4-1) + 1 x (irr-C2-4-q,irr-C4-8-q) + 1 x (irr-C2-1,irr-C4-36)
+irr-C6-208-q	1 x (irr-C2-4-q,irr-C4-1) + 1 x (irr-C2-1,irr-C4-8-q) + 1 x (irr-C2-5,irr-C4-8-q) + 1 x (irr-C2-4-q,irr-C4-27) + 1 x (irr-C2-1,irr-C4-48-q)
