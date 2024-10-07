@@ -1,3 +1,5 @@
 irr-E6-1	1 x (irr-F4-1)
 irr-E6-27	1 x (irr-F4-1) + 1 x (irr-F4-26)
 irr-E6-78	1 x (irr-F4-26) + 1 x (irr-F4-52)
+irr-E6-351a	1 x (irr-F4-26) + 1 x (irr-F4-52) + 1 x (irr-F4-273)
+irr-E6-351b	1 x (irr-F4-1) + 1 x (irr-F4-26) + 1 x (irr-F4-324)
